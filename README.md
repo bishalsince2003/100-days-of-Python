@@ -38,7 +38,7 @@ This repository contains my Python projects and solutions from the **100 Days of
 
 ## Progress
 
-Completed **10/100 Days** ✅
+Completed **12/100 Days** ✅
 
 ## Goal
 
