@@ -4,7 +4,7 @@ print(art.logo1)
 
 print("Welcome to the Number Guessing Game! ")
 print("I'm thinking of a number between 1 and 100. ")
-number=random.randint(0,100)
+number=random.randint(1,100)
 
 difficulty_level=input("Choose a difficulty. Type 'easy' or 'hard': ")
 if difficulty_level=="easy":
