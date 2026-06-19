@@ -20,11 +20,18 @@ while game_over==False:
         print(f"You got it. The answer was {number}. ")
         game_over=True
     elif user_number> number:
-        print("Too high. \nGuess again. ")
         lives_count-=1
+        if lives_count>0:
+            print("Too high. \nGuess again. ")
+        else:
+            print("You've run out of guesses. Refresh the page to run again.")
+            print(f"The actual answer was {number}. ")
+            game_over=True
     else:
-        print("Too low. \nGuess again.")
         lives_count-=1
-
-
-
+        if lives_count>0:
+            print("Too low. \nGuess again.")
+        else:
+            print("You've run out of guesses. Refresh the page to run again.")
+            print(f"The actual answer was {number}. ")
+            game_over = True
