@@ -14,6 +14,8 @@ This repository contains my Python projects and solutions from the **100 Days of
 - Day 08 – Caesar Cipher
 - Day 09 – Blind Auction
 - Day 10 – Calculator
+- Day 11 - Blackjack Project
+- Day 12 - Number Guessing Game
 
 ## Concepts Covered
 
