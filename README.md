@@ -1,8 +1,27 @@
-# 100 Days of Python 🐍
+# 🐍 100 Days of Python
 
-This repository contains my Python projects and solutions from the **100 Days of Python Bootcamp**.
+A project-based Python learning journey following the **100 Days of Code – Python Bootcamp**. This repository contains daily coding challenges, mini-projects, debugging exercises, and problem-solving tasks completed throughout the course.
 
-## Completed Projects
+## Repository Highlights
+
+* 100 structured days of Python practice
+* Hands-on projects and coding exercises
+* Debugging and problem-solving challenges
+* Git and GitHub workflow practice
+* Progressive learning from fundamentals to real-world applications
+
+## Tech Stack
+
+* Python 3
+* Git
+* GitHub
+* PyCharm
+
+## Progress
+
+**Completed: 14 / 100 Days**
+
+### Completed Projects
 
 - Day 01 – Band Name Generator
 - Day 02 – Tip Calculator
@@ -17,33 +36,22 @@ This repository contains my Python projects and solutions from the **100 Days of
 - Day 11 - Blackjack Project
 - Day 12 - Number Guessing Game
 - Day 13 - Debugging
+- Day 14 - Higher Lower Game Project
 
-## Concepts Covered
+## Concepts Practiced
 
-- Variables and Data Types
-- User Input and Output
-- Conditional Statements
-- Loops
-- Functions
-- Dictionaries
-- Lists
-- Randomization
-- Problem Solving
-- Debugging
-
-## Technologies Used
-
-- Python 3.11
-- Git
-- GitHub
-
-## Progress
-
-Completed **13/100 Days** ✅
+* Variables & Data Types
+* Control Flow
+* Functions & Scope
+* Lists & Dictionaries
+* Loops
+* Randomization
+* Debugging
+* Problem Solving
 
 ## Goal
 
-To improve Python programming skills by building projects consistently for 100 days.
+Develop strong Python programming fundamentals through consistent project-based learning and daily coding practice.
 
 ## Author
 
