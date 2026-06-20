@@ -9,7 +9,7 @@ def generate_new_num():
 score=0
 
 
-print(art.logo)
+
 
 # num = random.randint(1,len(game_data.data)-1)
 # num1 = random.randint(1,len(game_data.data)-1)
@@ -18,7 +18,11 @@ print(art.logo)
 game_over=False
 person = game_data.data[generate_new_num()]
 while game_over == False:
+    print("\n"*50)
+    print(art.logo)
     person1 = game_data.data[generate_new_num()]
+    if person1==person:
+        person1 = game_data.data[generate_new_num()]
     print(f"Compare A: {person['name']}, {person['description']}, {person['country']}, ")
 
     print(art.vs)
