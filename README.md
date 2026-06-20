@@ -56,4 +56,4 @@ Develop strong Python programming fundamentals through consistent project-based 
 ## Author
 
 **Bishal Kumar**
-Computer Science Engineering Student
+: Computer Science Engineering Student
