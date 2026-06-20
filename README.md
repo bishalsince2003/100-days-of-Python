@@ -16,6 +16,7 @@ This repository contains my Python projects and solutions from the **100 Days of
 - Day 10 – Calculator
 - Day 11 - Blackjack Project
 - Day 12 - Number Guessing Game
+- Day 13 - Debugging
 
 ## Concepts Covered
 
@@ -38,7 +39,7 @@ This repository contains my Python projects and solutions from the **100 Days of
 
 ## Progress
 
-Completed **12/100 Days** ✅
+Completed **13/100 Days** ✅
 
 ## Goal
 
