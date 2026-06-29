@@ -1,59 +1,122 @@
-# 🐍 100 Days of Python
+<div align="center">
 
-A project-based Python learning journey following the **100 Days of Code – Python Bootcamp**. This repository contains daily coding challenges, mini-projects, debugging exercises, and problem-solving tasks completed throughout the course.
+# 🐍 100 Days of Python Challenge
 
-## Repository Highlights
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=100+Days+of+Python+Challenge;Building+One+Project+Every+Day;Learning+Python+Step+by+Step;From+Beginner+to+Advanced" />
 
-* 100 structured days of Python practice
-* Hands-on projects and coding exercises
-* Debugging and problem-solving challenges
-* Git and GitHub workflow practice
-* Progressive learning from fundamentals to real-world applications
+<br>
 
-## Tech Stack
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
+![Projects](https://img.shields.io/badge/Projects-18-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Challenge-In%20Progress-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)
 
-* Python 3
-* Git
-* GitHub
-* PyCharm
+</div>
 
-## Progress
+---
 
-**Completed: 14 / 100 Days**
+# 🚀 About This Repository
 
-### Completed Projects
+Welcome to my **100 Days of Python** learning journey.
 
-- Day 01 – Band Name Generator
-- Day 02 – Tip Calculator
-- Day 03 – Treasure Island
-- Day 04 – Rock Paper Scissors
-- Day 05 – Password Generator
-- Day 06 – Reeborg Maze
-- Day 07 – Hangman
-- Day 08 – Caesar Cipher
-- Day 09 – Blind Auction
-- Day 10 – Calculator
-- Day 11 - Blackjack Project
-- Day 12 - Number Guessing Game
-- Day 13 - Debugging
-- Day 14 - Higher Lower Game Project
+This repository documents my progress as I build **one Python project every day** while continuously improving my programming skills.
 
-## Concepts Practiced
+Unlike a collection of random projects, this repository follows a **progressive learning roadmap**, where every new day introduces new concepts and increasingly challenging projects.
 
+> **The projects become more advanced as the challenge progresses.**
+> The initial days focus on Python fundamentals, while the later days introduce Object-Oriented Programming, Turtle Graphics, External Libraries, APIs, Automation, GUI Development, Data Science, and much more.
+
+---
+
+# 📈 Progress
+
+### ✅ Completed: **18 / 100 Days**
+
+```
+██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 18%
+```
+
+---
+
+# ⭐ Featured Projects
+
+| Day       | Project                  | Concepts                        |
+| --------- | ------------------------ | ------------------------------- |
+| ☕ Day 16  | OOP Coffee Machine       | Classes, Objects, OOP           |
+| 🧠 Day 17 | Quiz Game                | Object-Oriented Programming     |
+| 🎨 Day 18 | Hirst Painting Generator | Turtle Graphics, Colorgram, RGB |
+
+> More advanced projects will continue to be added throughout the challenge.
+
+---
+
+# 📂 Completed Projects
+
+* ✅ Day 01 – Band Name Generator
+* ✅ Day 02 – Tip Calculator
+* ✅ Day 03 – Treasure Island
+* ✅ Day 04 – Rock Paper Scissors
+* ✅ Day 05 – Password Generator
+* ✅ Day 06 – Reeborg Maze
+* ✅ Day 07 – Hangman
+* ✅ Day 08 – Caesar Cipher
+* ✅ Day 09 – Blind Auction
+* ✅ Day 10 – Calculator
+* ✅ Day 11 – Blackjack Project
+* ✅ Day 12 – Number Guessing Game
+* ✅ Day 13 – Debugging
+* ✅ Day 14 – Higher Lower Game
+* ✅ Day 15 – Coffee Machine Project
+* ✅ Day 16 – OOP Coffee Machine
+* ✅ Day 17 – Quiz Game
+* ✅ Day 18 – Hirst Painting Generator
+
+---
+
+# 🛠️ Skills Learned So Far
+
+* Python Fundamentals
 * Variables & Data Types
-* Control Flow
-* Functions & Scope
-* Lists & Dictionaries
+* Conditional Statements
 * Loops
-* Randomization
+* Functions
+* Dictionaries
+* Lists & Tuples
+* Modules
 * Debugging
+* Object-Oriented Programming (OOP)
+* Turtle Graphics
+* RGB Color Manipulation
+* External Libraries
+* Git & GitHub
 * Problem Solving
 
-## Goal
+---
 
-Develop strong Python programming fundamentals through consistent project-based learning and daily coding practice.
+# 🎯 Upcoming Topics
 
-## Author
+* GUI Development
+* File Handling
+* APIs
+* Automation
+* Web Scraping
+* Data Science
+* Flask
+* Databases
+* Web Development
 
-**Bishal Kumar**
-: Computer Science Engineering Student
+---
+
+# 📌 Goal
+
+Successfully complete the **100 Days of Python Challenge** by building 100 practical projects, strengthening problem-solving skills, and developing real-world Python applications.
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my repository!
+
+If you find this journey interesting, feel free to explore the projects and follow my progress.
+
+</div>
