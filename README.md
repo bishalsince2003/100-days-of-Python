@@ -30,21 +30,22 @@ Unlike a collection of random projects, this repository follows a **progressive 
 
 # 📈 Progress
 
-### ✅ Completed: **18 / 100 Days**
+### ✅ Completed: **19 / 100 Days**
 
 ```
-██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 18%
+██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 19%
 ```
 
 ---
 
 # ⭐ Featured Projects
 
-| Day       | Project                  | Concepts                        |
-| --------- | ------------------------ | ------------------------------- |
-| ☕ Day 16  | OOP Coffee Machine       | Classes, Objects, OOP           |
-| 🧠 Day 17 | Quiz Game                | Object-Oriented Programming     |
-| 🎨 Day 18 | Hirst Painting Generator | Turtle Graphics, Colorgram, RGB |
+| Day       | Project                  | Concepts                           |
+| --------- | ------------------------ | -----------------------------------|
+| ☕ Day 16  | OOP Coffee Machine       | Classes, Objects, OOP              |
+| 🧠 Day 17 | Quiz Game                | Object-Oriented Programming         |
+| 🎨 Day 18 | Hirst Painting Generator | Turtle Graphics, Colorgram, RGB     |
+| 🎨 Day 19 | Turtle Race              | Turtle Graphics, Random Module, RGB |
 
 > More advanced projects will continue to be added throughout the challenge.
 
@@ -70,6 +71,7 @@ Unlike a collection of random projects, this repository follows a **progressive 
 * ✅ Day 16 – OOP Coffee Machine
 * ✅ Day 17 – Quiz Game
 * ✅ Day 18 – Hirst Painting Generator
+* ✅ Day 19 – Turtle Race
 
 ---
 
