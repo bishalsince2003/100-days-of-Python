@@ -30,10 +30,10 @@ Unlike a collection of random projects, this repository follows a **progressive 
 
 # 📈 Progress
 
-### ✅ Completed: **19 / 100 Days**
+### ✅ Completed: **20 / 100 Days**
 
 ```
-██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 19%
+██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%
 ```
 
 ---
@@ -72,6 +72,7 @@ Unlike a collection of random projects, this repository follows a **progressive 
 * ✅ Day 17 – Quiz Game
 * ✅ Day 18 – Hirst Painting Generator
 * ✅ Day 19 – Turtle Race
+* ✅ Day 20 – Snake Game part1
 
 ---
 
