@@ -7,7 +7,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
-![Projects](https://img.shields.io/badge/Projects-18-success?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-20-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Challenge-In%20Progress-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)
 
