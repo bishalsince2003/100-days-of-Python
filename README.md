@@ -7,7 +7,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
-![Projects](https://img.shields.io/badge/Projects-20-success?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-22-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Challenge-In%20Progress-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)
 
@@ -30,22 +30,24 @@ Unlike a collection of random projects, this repository follows a **progressive 
 
 # 📈 Progress
 
-### ✅ Completed: **20 / 100 Days**
+### ✅ Completed: **22 / 100 Days**
 
 ```
-██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%
+███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 22%
 ```
 
 ---
 
 # ⭐ Featured Projects
 
-| Day       | Project                  | Concepts                           |
-| --------- | ------------------------ | -----------------------------------|
-| ☕ Day 16  | OOP Coffee Machine       | Classes, Objects, OOP              |
+| Day       | Project                  | Concepts                            |
+| --------- | ------------------------ | ----------------------------------- |
+| ☕ Day 16  | OOP Coffee Machine       | Classes, Objects, OOP               |
 | 🧠 Day 17 | Quiz Game                | Object-Oriented Programming         |
 | 🎨 Day 18 | Hirst Painting Generator | Turtle Graphics, Colorgram, RGB     |
 | 🎨 Day 19 | Turtle Race              | Turtle Graphics, Random Module, RGB |
+| 🎨 Day 21 | Snake Game               | Turtle Graphics, OOPs               |
+| 🎨 Day 22 | Ping Pong Game           | Turtle Graphics, OOPs               |
 
 > More advanced projects will continue to be added throughout the challenge.
 
@@ -73,6 +75,8 @@ Unlike a collection of random projects, this repository follows a **progressive 
 * ✅ Day 18 – Hirst Painting Generator
 * ✅ Day 19 – Turtle Race
 * ✅ Day 20 – Snake Game part1
+* ✅ Day 21 – Snake Game part2(Final Part)
+* ✅ Day 22 – Pong Game
 
 ---
 
